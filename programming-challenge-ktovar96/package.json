@@ -1,0 +1,22 @@
+{
+  "name": "programming-challenge-ktovar96",
+  "version": "1.0.0",
+  "description": "![BrightCoders Logo](img/logo-bc.png)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrightCoders-Institute/programming-challenge-ktovar96"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrightCoders-Institute/programming-challenge-ktovar96/issues"
+  },
+  "homepage": "https://github.com/BrightCoders-Institute/programming-challenge-ktovar96#readme"
+}
